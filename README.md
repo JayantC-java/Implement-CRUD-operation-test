@@ -23,9 +23,13 @@ It has the following features –
 
 
 1)Create User REST API:
+
 Request URL: http://localhost:8080/api/users
+
 HTTP Method: POST
+
 Request Body:
+
 {
     "id": 1,
     "first_name": "Raj",
@@ -33,12 +37,17 @@ Request Body:
     "email": "raj.verma@imagine.com ",
     "age": 44
 }
+
 2) Get User REST API:
+
 Request URL: http://localhost:8080/api/users/1
+
 HTTP Method: GET
 
 3) Update User REST API:
+
 Request URL: http://localhost:8080/api/users/1
+
 HTTP Method: PUT
 
 4) Get All Users REST API:
