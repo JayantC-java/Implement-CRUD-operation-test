@@ -22,7 +22,7 @@ It has the following features –
 - Delete all users
 
 
-1) Create User REST API:
+### 1) Create User REST API:
 
 Request URL: http://localhost:8080/api/users
 
@@ -39,35 +39,35 @@ Request Body:
 }
 
 
-2) Get User REST API:
+### 2) Get User REST API:
 
 Request URL: http://localhost:8080/api/users/1
 
 HTTP Method: GET
 
 
-3) Update User REST API:
+### 3) Update User REST API:
 
 Request URL: http://localhost:8080/api/users/1
 
 HTTP Method: PUT
 
 
-4) Get All Users REST API:
+### 4) Get All Users REST API:
 
 Request URL: http://localhost:8080/api/users
 
 HTTP Method: GET
 
 
-5) DELETE User REST API:
+### 5) DELETE User REST API:
 
 Request URL: http://localhost:8080/api/users/1
 
 HTTP Method: DELETE
 
 
-6) DELETE All User REST API:
+### 6) DELETE All User REST API:
 
 Request URL: http://localhost:8080/api/users
 
